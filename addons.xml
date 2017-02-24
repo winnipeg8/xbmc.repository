@@ -6,6 +6,13 @@
         <checksum>https://raw.githubusercontent.com/winnipeg8/xbmc.repository/master/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/winnipeg8/xbmc.repository/master</datadir>
     </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">winnipeg8 Add-on Repository</summary>
+        <description lang="en">Download and install LF.TV addon</description>
+        <summary lang="ru">Репозиторий winnipeg8</summary>
+        <description lang="ru">Скачивание и установка плагина ЛостФилм</description>
+        <platform>all</platform>
+    </extension>
 </addon>
 <addon id="plugin.video.lostfilm.tv" name="LostFilm.TV" provider-name="winnipeg8" version="0.1.4">
 	<requires>
