@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.winnipeg8" name="LostFilm.TV Add-on Repository" version="0.0.1" provider-name="winnipeg8">
-    <extension point="xbmc.addon.repository" name="LostFilm.TV Add-on Repository">
+<addon id="repository.winnipeg8" name="winnipwg8's Add-on Repository" version="0.0.1" provider-name="winnipeg8">
+    <extension point="xbmc.addon.repository" name="winnipeg8's Add-on Repository">
         <info compressed="false">https://raw.githubusercontent.com/winnipeg8/xbmc.repository/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/winnipeg8/xbmc.repository/master/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/winnipeg8/xbmc.repository/master</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="en">winnipeg8 Add-on Repository</summary>
-        <description lang="en">Download and install LF.TV addon</description>
+        <description lang="en">Download and install LostFilm.TV and Plexus addons</description>
         <summary lang="ru">Репозиторий winnipeg8</summary>
-        <description lang="ru">Скачивание и установка плагина ЛостФилм</description>
+        <description lang="ru">Скачивание и установка плагина ЛостФилм и Plexus</description>
         <platform>all</platform>
     </extension>
 </addon>
