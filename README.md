@@ -1,3 +1,3 @@
 # xbmc.repository
 
-Repo for LostFilm.TV kodi add-on update
+Repo for LostFilm.TV and Plexus Kodi add-ons
