@@ -12,7 +12,7 @@
         <description lang="ru">Скачивание и установка плагинов ЛостФилм и Plexus</description>
         <platform>all</platform>
     </extension>
-</addon><addon id="plugin.video.lostfilm.tv" name="LostFilm.TV" provider-name="winnipeg8" version="0.1.7a">
+</addon><addon id="plugin.video.lostfilm.tv" name="LostFilm.TV" provider-name="winnipeg8" version="0.1.7b">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0" />
 		<import addon="script.module.requests" version="2.12.4" />
